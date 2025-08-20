@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## ▶️ How to Use
 Run the Streamlit App:
 ```bash
-streamlit run src app.py
+streamlit run src/app.py
 ```
 Open in your Browser at:
 ```arduino
